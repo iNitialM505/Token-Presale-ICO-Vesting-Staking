@@ -10,7 +10,7 @@ contract ICO is Ownable{
     //no minimum buying cap,
 
 
-    ///@notice For 1 wei you will be getting 2*1e12/decimalOfToken = 2*1e12/1e18 = 0.000004 tokens
+    ///@notice For 1 wei you will be getting 2*1e12/decimalOfToken = 2*1e12/1e18 = c tokens
     //uint private rate1=4*1e12;
 
     ///@notice For 1 wei you will be getting 2*1e12/decimalOfToken = 2*1e12/1e18 = 0.000002 tokens

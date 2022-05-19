@@ -1,0 +1,36 @@
+Name                                -   CARROT
+Ticker                              -   CRRT     
+Type                                -   MEME 
+
+Initial Supply                      -   10,000,000,000 (10 billion)
+Final Supply                        -   10,000,000,000
+
+Pre Minted                          -   All 
+Mintable                            -   None
+
+------Allocation------
+
+To whom _______ Percentage _________ Number of Tokens _________ Rate(token/1 Wei) _________ Amount to raise(in Wei)
+
+PreSale            10%                  1000,000,000                0.000000000005            200e18   Wei (200 Ether) 
+
+ICO                20%                  2000,000,000                0.000000000004            125e18 Wei (125 Ether)              
+(3 Stages)                                                          0.000000000002            250e18 Wei (250 Ether)  
+ICO 1/2/3                                                           0.000000000001           1000e18 Wei (1000 Ether)
+
+Staking
+Rewards            10%                  1000,000,000
+
+Team               10%                  1000,000,000
+
+Reserves           10%                  1000,000,000
+
+DEX Pool           25%                  2500,000,000
+
+Bounty/             5%                   500,000,000
+Marketing
+
+Development        10%                  1000,000,000
+
+-----------------------------------------------------------------------------------------------------------------------
+Total              100%                 10,000,000,000                                              1575 Ethers
